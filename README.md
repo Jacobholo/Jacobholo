@@ -2,8 +2,9 @@
 
 ## Data Analyst | Power BI | SQL | Business Intelligence
 
-Data Analyst with 3+ years of experience transforming operational data into actionable insights using Power BI, SQL and Advanced Excel. Experienced in building dashboards and automated reports supporting operations across Kenya, Uganda, Tanzania and Zambia.
+# Hi, I'm Jacob Odundo Holo 👋
 
+Data Analyst with experience in Power BI, SQL, Excel and Business Intelligence, supporting operations and reporting across multiple countries in East Africa.
 ## Technical Skills
 
 - Power BI
