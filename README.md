@@ -1,4 +1,4 @@
-Jacob Odundo Holo
+Hi, I'm Jacob Odundo Holo 👋
 Data Analyst | Power BI | SQL | Business Intelligence
 Data Analyst with 3+ years of experience transforming operational data into actionable insights using Power BI, SQL and Advanced Excel.
 
@@ -15,24 +15,9 @@ SPSS
 Data Visualization
 KPI Reporting
 Report Automation
-Experience Highlights
-Contributed to a 40% increase in auction revenue through pricing and performance analysis.
-Built Power BI dashboards used by management across four countries.
-Automated operational reporting processes and KPI monitoring.
-Featured Projects
-Multi-Country Operations Dashboard
-Power BI dashboard tracking operational KPIs, turnaround times and auction performance.
+Key Achievements
+✅ Contributed to a 40% increase in auction revenue through pricing and performance analysis.
 
-Auction Performance Analysis
-Analysis of pricing trends and revenue performance for vehicle auctions.
+✅ Built Power BI dashboards used by management across four countries.
 
-Employee Training Dashboard
-Interactive dashboard for monitoring employee training participation and attendance.
-
-Contact
-📧 odundojacob848@gmail.com
-Phone: 0793810022
-
-📍 Nairobi, Kenya
-
-GitHub: https://github.com/Jacobholo
+✅ Automated operational reporting processes and KPI monitoring.
